@@ -1,0 +1,25 @@
+ul.contact {
+    list-style-type: none;
+    margin: 16px;
+}
+
+ul.contact li {
+    margin: 32px;
+}
+
+ul.contact li div.name {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 1.8em;
+}
+
+ul.contact li div.position {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.5em;
+    margin-left: 1em;
+}
+
+ul.contact li div.email {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.5em;
+    margin-left: 1em;
+}

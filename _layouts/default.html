@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }} - {{ site.name }}</title>
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="{{ site.url }}/css/site.css">
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <span class="title">{{ site.name }}</span>
+      </header>
+      <nav>
+        <ul>
+{% for nav in site.data.nav %}
+          <li><a href="{{ site.url }}/{{ nav.url }}">{{ nav.name }}</a></li>
+{% endfor %}
+        </ul>
+      </nav>
+      <article>
+        <h1>{{ page.title }}</h1>
+{{ content }}
+      </article>
+    </div>
+  </body>
+</html>

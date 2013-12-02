@@ -1,0 +1,15 @@
+section.event {
+    margin-left: 32px;
+    margin-right: 32px;
+}
+
+section.event h2 {
+    font-family: 'Average Sans', sans-serif;
+    font-size: 1.4em;
+}
+
+section.event time {
+    color: #AAA;
+    font-size: 0.8em;
+    margin-left: 8px;
+}

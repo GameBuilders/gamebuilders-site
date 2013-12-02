@@ -1,0 +1,32 @@
+---
+layout: default
+---
+<link rel="stylesheet" href="{{ site.url }}/css/game.css">
+
+<section class="game">
+  <section class="images">
+    <h1>Images</h1>
+    <ul>
+{% for image in page.images %}
+      <li><a href="{{ site.url }}{{ image }}"><img src="{{ site.url }}{{ image }}" /></a></li>
+{% endfor %}
+    </ul>
+  </section>
+
+  <section class="description">
+    <h1>Description</h1>
+{{ content }}
+  </section>
+
+  <section class="credits">
+    <h1>Credits</h1>
+    <table>
+{% for credit_list in page.credits %}
+      <tr>
+        <td>{{ credit_list[0] }}</td>
+        <td><ul>{% for credit in credit_list[1] %}<li>{{ credit }}</li>{% endfor %}</ul></td>
+{% endfor %}
+    </table>
+  </section>
+</section>
+

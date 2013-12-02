@@ -1,0 +1,18 @@
+---
+layout: default
+title: Contact
+date: 2013-11-16
+---
+<link rel="stylesheet" href="css/contact.css">
+<ul class="contact">
+{% for contact in site.data.contact %}
+  <li>
+    <div class="name">{{ contact.name }}</div>
+    <div class="position">{{ contact.position }}</div>
+    <div class="email">{{ contact.email }}</div>
+  </li>
+{% endfor %}
+</ul>
+<footer>
+    <p>Last updated: <time pubdate>{{ page.date | date: "%-d %B %Y" }}</title></p>
+</footer>

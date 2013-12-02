@@ -1,0 +1,13 @@
+---
+layout: game
+title: Mineralz
+thumbnail: /img/mineralz/thumb.png
+images: [/img/mineralz/1.png, /img/mineralz/2.png, /img/mineralz/3.png]
+credits:
+    Project Lead: [Ryan Norby]
+    Programming: [Ryan Norby, Luke Puchner-Hardman]
+    Additional Programming: [Eric Christianson, Danny Sapato, Rafael Rego Drumond]
+    Artwork: [Ryan Norby, Rafael Rego Drumond]
+---
+
+A 3D tower defense variant based on the custom game from StarCraft II. You play as a lone robotic dragon on an abandoned crater and must build defenses in order to thwart attempts by the enemy robotic legion to eradicate you.
