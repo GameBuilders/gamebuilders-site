@@ -1,7 +1,7 @@
 ---
 layout: game
 title: Solar Command
-thumbnail:  /img/solarcommand/title.png
+thumbnail: /img/solarcommand/title.png
 images: [/img/solarcommand/1.png, /img/solarcommand/2.png, /img/solarcommand/3.png, /img/solarcommand/4.png, /img/solarcommand/5.png, /img/solarcommand/6.png]
 credits:
     Project Lead: [Praneet Sahgal]
@@ -9,6 +9,7 @@ credits:
     Artwork: [Praneet Sahgal]
     Design: [Praneet Sahgal, Prateek Sahgal]
 ---
+
 In the distant future, humanity's young interstellar empire is engaged in all-out civil war. As a commander of one of the many rising colonies across the galaxy, you must command your forces, colonize new worlds, and defeat your rivals to establish dominance in this new era.
 
 Solar Command is a session-based collectible card game (CCG) for Android with strategy elements. You must use a variety of unique cards to build ships, colonize new worlds, and conquer existing ones. Your goal is to defeat your opponent and establish dominance over your sector of space by conquering your opponent's capital world.
