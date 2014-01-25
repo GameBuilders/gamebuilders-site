@@ -5,7 +5,7 @@ thumbnail: /img/dragonrage/thumb.png
 images: [/img/dragonrage/1.png, /img/dragonrage/2.png, /img/dragonrage/3.png, /img/dragonrage/4.png, /img/dragonrage/5.png]
 credits:
     Programming: [Luke Puchner-Hardman, Ryan Norby]
-	Art was taken from various sources and modified.
+    "": Art was taken from various sources and modified.
 link:
     Source: https://bitbucket.org/berserkguard/gamebuild-a-thon-shooter
 ---
