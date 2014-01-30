@@ -1,6 +1,10 @@
 ---
 layout: default
 ---
+<link rel="stylesheet" href="{{ site.url }}/css/event.css">
 
-{{ content }}
-
+<div class="event-time"><time>{{ page.date | date: "%B %-d %Y %H:%M %p" }}</time></div>
+{% if page.duration %}
+<div class="event-time">{{ page.duration }}</div>
+{% endif %}
+<div>{{ content }}</div>

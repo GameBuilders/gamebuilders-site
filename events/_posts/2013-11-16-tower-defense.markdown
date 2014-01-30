@@ -2,6 +2,7 @@
 layout: event
 title: Game-build-a-thon - Tower Defense with Pygame
 date: 2013-11-16 11:00 -0600
+duration: 12 hours
 location: 0220 Siebel Center
 ---
 

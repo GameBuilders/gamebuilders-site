@@ -7,6 +7,9 @@
 - name: Events
   url: events.html
 
+- name: Forum
+  url: /gamebuilders-forum/
+
 - name: About
   url: about.html
 
