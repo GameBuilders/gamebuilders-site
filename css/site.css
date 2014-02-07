@@ -125,6 +125,11 @@ article ul {
     margin-left: 1em;
 }
 
+article ol {
+    list-style-position: inside;
+    margin-left: 1em;
+}
+
 img.small {
     display: inline;
     float: left;

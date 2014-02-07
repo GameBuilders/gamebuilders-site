@@ -5,6 +5,6 @@ layout: default
 
 <div class="event-time"><time>{{ page.date | date: "%B %-d %Y %H:%M %p" }}</time></div>
 {% if page.duration %}
-<div class="event-time">{{ page.duration }}</div>
+<div class="event-time">Ends: {{ page.duration }}</div>
 {% endif %}
-<div>{{ content }}</div>
+{{ content }}
