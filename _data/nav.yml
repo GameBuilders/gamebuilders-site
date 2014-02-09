@@ -8,7 +8,7 @@
   url: events.html
 
 - name: Forum
-  url: /gamebuilders-forum/
+  url: ../gamebuilders-forum/
 
 - name: About
   url: about.html
