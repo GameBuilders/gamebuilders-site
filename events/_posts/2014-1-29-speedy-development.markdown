@@ -18,17 +18,22 @@ This semester's required language is __C++__. We will be giving a lot less of a 
 
 If you're new to game development in general, or new to using C++, we highly recommend you come to the general meeting on Tuesday, February 11th. We'll be running a tutorial on how to use C++, SFML, and Box2D, which should help inexperienced participants get started. And, as in past competitions, you can always ask questions on how to use the libraries at the competition itself.
 
+The framework is posted on Github. Click [here](https://github.com/GameBuilders/gamebase) to view it.
+
 #Food#
 We are planning to provide lunch at the beginning and the end of the competition, and snacks and drinks for the duration. However, as in past Gamebuild-a-thons, this may vary depending on the number of participants.
 
 #Prizes#
-We will once again have awesome prizes from EA, which are yet to be determined. Stay tuned!
+We will once again have awesome prizes from EA, including Battlefield 4 and Need for Speed Rivals. The distribution of prizes is yet to be determined. Stay tuned!
 
 #Signing Up and Turning In#
-Unlike last semester's competition, __signing up is required__, and the deadline is __11:59 pm on Thursday__. At that time we'll close signups and begin setting up distribution via Github. If you plan to compete and you don't have a Github account, you'll need to get one. As a result of using Github, all games built for the competition will be publicly posted. Click [here](https://docs.google.com/forms/d/1tEuqBpx3vwq1oqXYlS6rAsWeKLsIsrlbuffXXm5zFKI/viewform) to sign up for the competition.
+__Signups are required for each team by the end of the competition (12:00 PM on Sunday).__ This means you can form teams on the day of the competition. If you plan to compete and you don't have a Github account, you'll need to get one. As a result of using Github, all games built for the competition will be publicly posted. Click [here](https://docs.google.com/forms/d/1tEuqBpx3vwq1oqXYlS6rAsWeKLsIsrlbuffXXm5zFKI/viewform) to sign up for the competition.
+
+#Finding Team Members#
+For those of you looking for team members, we recommend you use the [forums](http://www.acm.uiuc.edu/gamebuilders-forum/forumdisplay.php?fid=26) or post on the [Facebook event page](https://www.facebook.com/events/355140677961420/357238577751630/?notif_t=plan_mall_activity).
 
 #Official Rules#
-1. You may have teams of up to 3 people. Teams must be signed up by 11:59 pm on Thursday, February 13th. 
+1. You may have teams of up to 3 people. Teams must be signed up by 12:00 pm on Sunday, February 16th. 
 2. You will have 24 hours to build a game and must have a project pushed to your given Github branch by 12 pm on Sunday.
 3. You may not use a project already started.
 4. The current list of allowed code libraries and systems is the following:
@@ -37,6 +42,11 @@ Unlike last semester's competition, __signing up is required__, and the deadline
 * Box2D
 * SFML
 * Waf
+* GLEW
+* FreeType
+* json cpp
+* pugi xml
+* SFGUI
 * OGRE (not provided in framework)
 * Bullet (not provided in framework)
 </ul>
@@ -46,6 +56,7 @@ If you wish to use a library not listed here, let us know and we'll try to incor
 * [Font Squirrel](http://www.fontsquirrel.com/)
 * [FreeSound](http://www.freesound.org/)
 * [Open Game Art](http://opengameart.org/)
+* [Bfxr](http://www.bfxr.net/)
 </ul>
 We reserve the right to ask for proof the origin of any game assets in submitted games. If there's another website with free game assets we've missed, let us know and we'll consider allowing it.
 6. You must start with the framework we give you, but you can edit it any way you like.
