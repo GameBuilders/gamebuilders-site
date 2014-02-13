@@ -24,7 +24,18 @@ The framework is posted on Github. Click [here](https://github.com/GameBuilders/
 We are planning to provide lunch at the beginning and the end of the competition, and snacks and drinks for the duration. However, as in past Gamebuild-a-thons, this may vary depending on the number of participants.
 
 #Prizes#
-We will once again have awesome prizes from EA, including Battlefield 4 and Need for Speed Rivals. The distribution of prizes is yet to be determined. Stay tuned!
+__First Place__: 2 EA backpacks and choice of 2 games from the list below
+
+__Second Place__: 2 EA water bottles, 2 EA USB drives, and the remaining 2 games from the list below
+
+__Third Place__: 2 EA bound Journals and 2 EA USB drives
+
+The list of games available as prizes are the following:
+
+* Battlefield 4 (Xbox One)
+* Fifa 14 (Xbox One)
+* Madden 25 (PS4)
+* Need for Speed Rivals (PC)
 
 #Signing Up and Turning In#
 __Signups are required for each team by the end of the competition (12:00 PM on Sunday).__ This means you can form teams on the day of the competition. If you plan to compete and you don't have a Github account, you'll need to get one. As a result of using Github, all games built for the competition will be publicly posted. Click [here](https://docs.google.com/forms/d/1tEuqBpx3vwq1oqXYlS6rAsWeKLsIsrlbuffXXm5zFKI/viewform) to sign up for the competition.
