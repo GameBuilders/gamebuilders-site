@@ -18,6 +18,9 @@ credits:
         - "http://www.pdsounds.org/sounds/water_vaporizing_on_hot_stones"
         - "\"Fireplace\""
         - "http://soundbible.com/1543-Fireplace.html"
+        - SoundRangers, SoundDogs
+	Modeling:
+        - Spider model by Wenyu Wu.
     Fonts:
         - "\"Goudy Bookletter 1911\", a version of Frederic Goudy's Kennerley Oldstyle updated by Barry Schwartz."
         - "https://github.com/theleagueof/goudy-bookletter-1911"
