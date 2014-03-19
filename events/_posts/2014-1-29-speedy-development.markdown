@@ -20,6 +20,9 @@ If you're new to game development in general, or new to using C++, we highly rec
 
 The framework is posted on Github. Click [here](https://github.com/GameBuilders/gamebase) to view it.
 
+#Location#
+We'll be in Siebel 2405 for the duration. 
+
 #Food#
 We are planning to provide lunch at the beginning and the end of the competition, and snacks and drinks for the duration. However, as in past Gamebuild-a-thons, this may vary depending on the number of participants.
 

@@ -1,0 +1,13 @@
+---
+layout: event
+title: EA Visit with Gamebuilders
+date: 2014-2-18 4:00 PM
+duration: 6:00 PM
+location: Siebel 3401
+---
+
+<img src="{{ site.url }}/img/events/ea.png" class="small" />
+EA will be visiting campus from 2/17 to 2/18, and would like to meet the Gamebuilders. They'll be discussing EA's internship program and giving feedback on the games from the Gamebuild-a-thon. If you have a game and you'd like to receive feedback on it from some professional game developers, we highly recommend you come. All are welcome! The location is __Siebel 3401__. The EA team will also be at Corporate Connections on 2/17, and will also be meeting with WCS. So if you can't make it to this event, there are still plenty of chances to meet with EA!
+
+Check out the Facebook event page [here](https://www.facebook.com/events/215237965337446/?context=create).
+
