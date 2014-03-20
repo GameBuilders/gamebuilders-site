@@ -19,7 +19,7 @@ credits:
         - "\"Fireplace\""
         - "http://soundbible.com/1543-Fireplace.html"
         - SoundRangers, SoundDogs
-	Modeling:
+    Modeling:
         - Spider model by Wenyu Wu.
     Fonts:
         - "\"Goudy Bookletter 1911\", a version of Frederic Goudy's Kennerley Oldstyle updated by Barry Schwartz."
