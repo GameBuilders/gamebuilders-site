@@ -14,4 +14,4 @@ You are a European monarch ruling over a divided continent. Lead your nation to 
 become the dominant power in Europe. The gameplay is based on Risk with some economic
 elements built in to add strategic depth to the game. 
 
-The project website is located [http://gulugames.com/] here.
+The project website is located [here]({{ page.link.Website}}).
