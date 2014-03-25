@@ -19,4 +19,4 @@ Solar Command is a session-based collectible card game (CCG) for Android with st
 
 The game is currently in closed alpha on the Google Play Store. To join the alpha test, request to join the Google group [here]({{ page.link.Group }}). Once you're approved to join, follow the instructions in the group's posts to download the game. No source code for the game is provided here, as Solar Command will (hopefully) become a commercial product. Unfortunately, there are currently no plans to port the game to iOS.
 
-New team members are always welcome, regardless of experience level. To contact the team, or to send feedback about the alpha test, click [here]({{page.link.Email}}) to send an email.
+New team members are always welcome, regardless of experience level. To contact the team, or to send feedback about the alpha test, click [here](mailto:sahgalsoft@gmail.com) to send an email.
