@@ -7,11 +7,11 @@
 - name: Events
   url: events.html
 
-- name: Forum
-  url: ../gamebuilders-forum/
-
 - name: About
   url: about.html
 
 - name: Contact
   url: contact.html
+
+- name: Github
+  url: https://github.com/GameBuilders/
