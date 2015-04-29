@@ -1,17 +1,11 @@
 - name: Home
-  url:
-
-- name: Games
-  url: games.html
-
-- name: Events
-  url: events.html
+  url: index.html
 
 - name: About
   url: about.html
 
+- name: Games
+  url: games.html
+
 - name: Contact
   url: contact.html
-
-- name: Github
-  url: https://github.com/GameBuilders/

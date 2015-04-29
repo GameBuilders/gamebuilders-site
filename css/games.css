@@ -1,19 +1,30 @@
-ul.games {
+
+ol.games {
     margin-left: auto;
     margin-right: auto;
     list-style-type: none;
-    padding-left: 64px;
-    padding-right: 64px;
+    padding-left: 0px;
+    padding-right: 0px;
+    text-align: center;
 }
 
-ul.games li {
+ol.games li {
     display: inline-block;
-    float: left;
     width: 20%;
     line-height: 0px;
 }
 
-ul.games li img {
+ol.games li img {
     width: 100%;
     height: 100%;
+}
+
+section.submit {
+    display: block;
+    width: 50%;
+    height: 100%;
+    margin: 16px;
+    font-size: 1.0em;
+    margin-left: 3em;
+    text-align: center;
 }

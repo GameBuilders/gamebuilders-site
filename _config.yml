@@ -1,4 +1,5 @@
 name: GameBuilders
 markdown: redcarpet
-pygments: true
+highlighter: true
 url: /gamebuilders
+baseurl: /gamebuilders

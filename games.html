@@ -1,13 +1,21 @@
 ---
 layout: default
 title: Games
+date: 2015-4-29
 ---
 <link rel="stylesheet" href="css/games.css">
 
-<ul class="games">
+<section><ol class="games">
 {% for game in site.categories.games %}
   <li>
     <a href="{{ site.url }}{{ game.url }}"><img src="{{ site.url }}{{ game.thumbnail }}" title="{{ game.title }}" /></a>
   </li>
 {% endfor %}
-</ul>
+</ol></section>
+<section class = "submit">
+<h2>Submit!</h2>
+If you are in Gamebuilders and would like your game on this page, you can email me (puchner2 at illinois edu) with a description, credits, a few images and a 256x256 thumbnail. Or you can make a pull request at <a href="https://github.com/GameBuilders/gamebuilders-site.">our github.</a>
+</section>
+<footer>
+    <p>Last updated: <time pubdate>{{ page.date | date: "%-d %B %Y" }}</title></p>
+</footer>
