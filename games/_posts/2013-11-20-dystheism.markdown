@@ -1,5 +1,5 @@
 ---
-layout: game
+layout: none
 title: Dystheism
 thumbnail: /img/dystheism/thumb.png
 link: http://dystheism.net/

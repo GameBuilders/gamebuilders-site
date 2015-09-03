@@ -9,7 +9,7 @@ date: 2015-4-29
 {% for game in site.categories.games %}
   <li>
     <a href="
-      {% if game.link %}
+      {% if game.layout == "none" %}
         {{ game.link }}
       {% else %}
         {{ site.url }}{{ game.url }}
