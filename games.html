@@ -8,7 +8,13 @@ date: 2015-4-29
 <section><ol class="games">
 {% for game in site.categories.games %}
   <li>
-    <a href="{{ site.url }}{{ game.url }}"><img src="{{ site.url }}{{ game.thumbnail }}" title="{{ game.title }}" /></a>
+    <a href="
+      {% if game.link %}
+        {{ game.link }}
+      {% else %}
+        {{ site.url }}{{ game.url }}
+      {% endif %}
+    "><img src="{{ site.url }}{{ game.thumbnail }}" title="{{ game.title }}" /></a>
   </li>
 {% endfor %}
 </ol></section>
